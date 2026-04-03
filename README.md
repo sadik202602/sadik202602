@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">About me</h4>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 </div>
 
 ###
-### ⏱️ My Coding Stats
+### My Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
