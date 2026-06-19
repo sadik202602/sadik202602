@@ -45,11 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Total Time: 55 mins
+Total Time: 2 hrs 2 mins
 
-Python   55 mins               █████████████████████████   100.00 %
+Python       1 hr 38 mins          ██████████████████░░░░░░░   72.16 %
+JavaScript   24 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Other        13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
 ```
 
 <!--END_SECTION:waka-->
