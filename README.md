@@ -45,12 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-Total Time: 2 hrs 48 mins
+Total Time: 2 hrs 46 mins
 
-Python   1 hr 36 mins          ██████████████▒░░░░░░░░░░   57.34 %
-HTML     1 hr 11 mins          ██████████▓░░░░░░░░░░░░░░   42.23 %
+Python   1 hr 34 mins          ██████████████▒░░░░░░░░░░   56.77 %
+HTML     1 hr 11 mins          ██████████▓░░░░░░░░░░░░░░   42.80 %
 Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
